@@ -5,8 +5,8 @@ import { Menu, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
 const nav = [
-  { label: 'About', href: '#about' },
-  { label: 'Ventures', href: '#ventures' },
+  { label: 'Approach', href: '#about' },
+  { label: 'Northstar', href: '#products' },
   { label: 'Team', href: '#team' },
   { label: 'Contact', href: '#contact' },
 ]
@@ -41,10 +41,10 @@ export function SiteHeader() {
         </nav>
 
         <a
-          href="#contact"
+          href="#products"
           className="hidden rounded-full bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 md:inline-flex"
         >
-          Get in touch
+          Explore Northstar
         </a>
 
         <button
@@ -80,7 +80,7 @@ export function SiteHeader() {
             onClick={() => setOpen(false)}
             className="mt-2 inline-flex justify-center rounded-full bg-primary px-4 py-2 text-sm font-medium text-primary-foreground"
           >
-            Get in touch
+            Explore Northstar
           </a>
         </nav>
       </div>

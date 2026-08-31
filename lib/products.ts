@@ -19,9 +19,9 @@ export interface Product {
 export const PRODUCTS: Product[] = [
   {
     id: 'atelier-os',
-    name: 'Atelier OS',
-    eyebrow: 'Operations, reimagined',
-    description: 'A calm, intelligent operating system for ambitious teams building what matters next.',
+    name: 'Northstar',
+    eyebrow: 'Direction for growth',
+    description: 'A focused system for turning ambition into clear priorities, better decisions, and meaningful momentum.',
     plans: [
       { id: 'atelier-os-license', label: 'Studio license', interval: 'one_time', priceInCents: 240000, stripePriceId: 'price_1UALJPCps3bzBQVakGztP443' },
       { id: 'atelier-os-monthly', label: 'Monthly', interval: 'month', priceInCents: 24000, stripePriceId: 'price_1UALJPCps3bzBQVaRUYmpxT3' },
@@ -30,9 +30,9 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'northstar-intelligence',
-    name: 'Northstar Intelligence',
-    eyebrow: 'Clarity at scale',
-    description: 'Decision intelligence that turns complex signals into a clear direction for your business.',
+    name: 'Northstar for Business',
+    eyebrow: 'Growth at scale',
+    description: 'A shared operating view that helps teams align priorities, make better decisions, and grow with intention.',
     plans: [
       { id: 'northstar-intelligence-license', label: 'Enterprise license', interval: 'one_time', priceInCents: 480000, stripePriceId: 'price_1UALJPCps3bzBQVakmISmiAP' },
       { id: 'northstar-intelligence-monthly', label: 'Monthly', interval: 'month', priceInCents: 48000, stripePriceId: 'price_1UALJRCps3bzBQVaR6ViSoN2' },

@@ -16,17 +16,16 @@ export function Contact() {
               [ 04 ] &nbsp; Contact
             </p>
             <h2 className="text-balance text-3xl font-semibold leading-tight tracking-tight md:text-5xl">
-              Have an idea worth building?
+              Build your next chapter with Ginicci.
             </h2>
             <p className="mt-5 max-w-md text-pretty leading-relaxed text-primary-foreground/70">
-              We partner with exceptional founders and operators. Tell us what
-              you&apos;re working on — we read every message.
+              Whether you&apos;re shaping a business or shaping your life, we&apos;d love to hear what you&apos;re building toward.
             </p>
             <a
               href="mailto:hello@ginicci.com"
               className="mt-8 inline-flex items-center gap-2 rounded-full bg-primary-foreground px-6 py-3 text-sm font-medium text-primary transition-opacity hover:opacity-90"
             >
-              Start a conversation
+              Talk with Ginicci
               <ArrowUpRight className="h-4 w-4" />
             </a>
           </div>

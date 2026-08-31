@@ -2,10 +2,10 @@ import { ArrowUpRight } from 'lucide-react'
 
 const ventures = [
   {
-    name: 'Northwind',
-    category: 'Data infrastructure',
+    name: 'Northstar',
+    category: 'Personal & business growth',
     description:
-      'A real-time analytics platform that turns event streams into decisions for product teams.',
+      'A focused growth platform that turns ambition into clear priorities, better decisions, and meaningful momentum.',
     year: '2018',
     status: 'Scaling',
   },
@@ -58,15 +58,14 @@ export function Portfolio() {
         <div className="flex flex-col justify-between gap-6 md:flex-row md:items-end">
           <div>
             <p className="mb-6 font-mono text-xs uppercase tracking-[0.2em] text-muted-foreground">
-              [ 02 ] &nbsp; The portfolio
+              [ 02 ] &nbsp; The Ginicci universe
             </p>
             <h2 className="max-w-2xl text-balance text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
-              Companies we&apos;ve built and backed.
+              Products for the life you&apos;re building.
             </h2>
           </div>
           <p className="max-w-sm text-sm leading-relaxed text-muted-foreground">
-            Each venture is an operating company with its own team, brand, and
-            customers — supported by the Ginicci platform.
+            Northstar is Ginicci&apos;s first product: a growing system designed to help people and businesses find direction and keep moving.
           </p>
         </div>
 

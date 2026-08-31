@@ -1,8 +1,8 @@
 const stats = [
   { value: '2016', label: 'Founded' },
-  { value: '11', label: 'Ventures launched' },
-  { value: '$140M', label: 'Capital deployed' },
-  { value: '4M+', label: 'People reached' },
+  { value: '01', label: 'Northstar product' },
+  { value: '∞', label: 'Room to grow' },
+  { value: '2', label: 'Ways to grow' },
 ]
 
 export function Stats() {

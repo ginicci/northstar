@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Ginicci — A product studio that builds companies',
+  title: 'Ginicci — Growth, with direction.',
   description:
-    'Ginicci is a product studio and holding company that designs, builds, and scales the software ventures of tomorrow.',
+    'Ginicci builds thoughtful products for personal and business growth. Northstar brings clarity, momentum, and direction to what comes next.',
   generator: 'v0.app',
   icons: {
     icon: [

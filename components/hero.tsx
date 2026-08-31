@@ -12,26 +12,24 @@ export function Hero() {
       <div className="relative mx-auto max-w-6xl px-6 pb-28 pt-24 md:pb-40 md:pt-36">
         <p className="mb-10 inline-flex items-center gap-3 font-mono text-xs uppercase tracking-[0.28em] text-muted-foreground">
           <span className="h-px w-10 bg-primary" aria-hidden="true" />
-          Product studio &amp; holding company
+          Ginicci / Northstar
         </p>
 
         <h1 className="max-w-4xl text-balance text-4xl font-light leading-[1.08] tracking-tight sm:text-5xl md:text-6xl lg:text-[4.5rem]">
-          We build the software companies of{' '}
-          <span className="text-primary">tomorrow.</span>
+          Growth needs a{' '}
+          <span className="text-primary">Northstar.</span>
         </h1>
 
         <p className="mt-8 max-w-xl text-pretty text-lg font-light leading-relaxed text-muted-foreground">
-          Ginicci designs, funds, and scales product ventures from the first
-          line of code to lasting businesses. One studio, a portfolio of ideas
-          worth building.
+          Ginicci creates products that help people and businesses move with clarity. Northstar is our first instrument for turning ambition into meaningful progress.
         </p>
 
         <div className="mt-12 flex flex-col gap-3 sm:flex-row sm:items-center">
           <a
-            href="#ventures"
+            href="#products"
             className="inline-flex items-center justify-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
           >
-            Explore our ventures
+            Meet Northstar
             <ArrowUpRight className="h-4 w-4" />
           </a>
           <a

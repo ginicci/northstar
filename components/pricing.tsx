@@ -6,9 +6,9 @@ export function Pricing() {
     <section id="products" className="border-t border-border py-28 md:py-36">
       <div className="mx-auto max-w-6xl px-6">
         <div className="mb-14 max-w-2xl">
-          <p className="mb-5 font-mono text-xs uppercase tracking-[0.28em] text-primary">[ products ]</p>
-          <h2 className="text-balance text-3xl font-light tracking-tight md:text-5xl">Tools for the next chapter.</h2>
-          <p className="mt-6 text-pretty text-lg font-light leading-relaxed text-muted-foreground">Explore the first products from the Ginicci studio. Built with care, made to compound.</p>
+          <p className="mb-5 font-mono text-xs uppercase tracking-[0.28em] text-primary">[ northstar ]</p>
+          <h2 className="text-balance text-3xl font-light tracking-tight md:text-5xl">Your direction, made clearer.</h2>
+          <p className="mt-6 text-pretty text-lg font-light leading-relaxed text-muted-foreground">Northstar is the first product from Ginicci — a clear, considered way to turn ambition into focused, repeatable progress.</p>
         </div>
         <div className="grid gap-5 lg:grid-cols-2">
           {PRODUCTS.map((product) => (

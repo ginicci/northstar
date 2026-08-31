@@ -11,7 +11,7 @@ export function SiteFooter() {
         </div>
 
         <p className="text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Ginicci. All rights reserved.
+          © {new Date().getFullYear()} Ginicci. Built for meaningful growth.
         </p>
 
         <div className="flex items-center gap-6 font-mono text-xs uppercase tracking-[0.15em] text-muted-foreground">

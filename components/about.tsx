@@ -1,15 +1,15 @@
 const principles = [
   {
+    title: 'Clarify',
+    body: 'We begin with the real problem, creating the clarity people and teams need before they can grow.',
+  },
+  {
     title: 'Build',
-    body: 'We start companies in-house — pairing founders with senior product, design, and engineering from day one.',
+    body: 'We shape simple, useful systems that turn insight into action across everyday life and work.',
   },
   {
-    title: 'Back',
-    body: 'We invest capital, infrastructure, and operating expertise into ideas with the potential to define a category.',
-  },
-  {
-    title: 'Scale',
-    body: 'We stay hands-on through the hardest years, turning early traction into durable, independent businesses.',
+    title: 'Grow',
+    body: 'We design for lasting momentum — products that compound into stronger habits, teams, and businesses.',
   },
 ]
 
@@ -22,16 +22,13 @@ export function About() {
             [ 01 ] &nbsp; About Ginicci
           </p>
           <h2 className="text-balance text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
-            A studio built to turn conviction into companies.
+            A studio built for meaningful growth.
           </h2>
         </div>
 
         <div className="md:col-span-7">
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
-            Ginicci is the parent company behind a portfolio of software
-            ventures. We are not a fund and not an agency — we are operators who
-            build alongside founders, sharing the risk and the craft required to
-            make a product people rely on.
+            Ginicci is a product studio creating tools for personal and business growth. We turn clear thinking into useful products — beginning with Northstar, a focused system for finding direction and making progress.
           </p>
 
           <div className="mt-12 grid gap-px overflow-hidden rounded-xl border border-border bg-border sm:grid-cols-3">

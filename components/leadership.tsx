@@ -14,11 +14,10 @@ export function Leadership() {
             [ 03 ] &nbsp; Leadership
           </p>
           <h2 className="text-balance text-3xl font-semibold leading-tight tracking-tight md:text-4xl">
-            Operators, not spectators.
+            A small team with a clear direction.
           </h2>
           <p className="mt-5 text-pretty leading-relaxed text-muted-foreground">
-            Our partners have founded, scaled, and exited companies. They sit
-            beside every team we build.
+            We are builders, operators, and believers in steady progress — working closely with the people and teams using our products.
           </p>
         </div>
 
