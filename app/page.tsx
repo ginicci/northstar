@@ -1,5 +1,6 @@
 import { SiteHeader } from '@/components/site-header'
 import { Hero } from '@/components/hero'
+import { AgentNetwork } from '@/components/agent-network/agent-network'
 import { Stats } from '@/components/stats'
 import { About } from '@/components/about'
 import { Portfolio } from '@/components/portfolio'
@@ -14,6 +15,7 @@ export default function Page() {
       <SiteHeader />
       <main>
         <Hero />
+        <AgentNetwork />
         <Stats />
         <About />
         <Portfolio />
